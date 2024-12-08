@@ -23,8 +23,8 @@ An example circuit is shown below and how to connect it:
 ![Pre-Amplifier Circuit](circuit.svg)
 
 ## Running Program
-
-The program can then be ran by running the main.py file from the terminal.
+First run IIR.py to run unit test
+Then program can then be ran by running the main.py file from the terminal.
 
 
 
