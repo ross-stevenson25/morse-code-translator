@@ -3,9 +3,11 @@ This is a Morse code translation program that works using Pyfirmata, using sampl
 For this version of Morse code translation a dot is defined as a 200Hz signal of length 0.2 seconds and a dash
 is defined as a 400hz signal with length 0.2 seconds.
 
-##Installation
+## Installation
+
 Install required packages as follows:
 
-'''bash
+```bash
 pip install py-iir-filter
+```
 
