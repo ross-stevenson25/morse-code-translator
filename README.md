@@ -11,3 +11,15 @@ Install required packages as follows:
 pip install py-iir-filter
 ```
 
+## Arduino Initialisation
+
+Flash Ardunio Uno with the StandardFirmata.ino
+
+## Set up Circuit
+
+Any microphone set up can be used, as long as it is compatible with the Arduino Uno and the output is connected to the analogue pin 0 on the Arduino Uno.
+An example circuit is shown below and how to connect it:
+
+![Pre-Amplifier Circuit]()
+
+
